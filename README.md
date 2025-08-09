@@ -29,25 +29,21 @@
 
 ## 📂 Featured Projects
 
-### 1️⃣ **Student Management System**  
-🔹 Built using **JSF, EJB, and JPA** to perform CRUD operations on student data.  
-🔹 Features: Add, view, update, and delete student records.  
-🔹 Tech Stack: Java EE, JSF, EJB, MySQL.
+### 1️⃣ **Online Health and Nutrition Consultation**  
+🔹 A platform for users to book appointments with nutrition experts and receive personalized diet plans.  
+🔹 Features: User registration, consultation booking, and health tracking.  
+🔹 Tech Stack: JSF, Java EE, MySQL, Hibernate.
 
-### 2️⃣ **Stock Management System**  
-🔹 Web-based Java EE application to manage stock entries, categories, customers, and suppliers.  
-🔹 Features: Admin panel for adding, editing, deleting, and viewing stock details.  
-🔹 Tech Stack: JSF, Hibernate, Maven, MySQL.
+### 2️⃣ **Placement Interaction System**  
+🔹 A web application for managing student placements and company interactions.  
+🔹 Features: Student registration, job postings, application tracking, and recruiter-student communication.  
+🔹 Tech Stack: JSF, EJB, MySQL.
 
-### 3️⃣ **Customer Registration Form**  
-🔹 JSF-based form with **Bean Validation** to collect customer details.  
-🔹 Validates name, email, age, and address before submission.  
-🔹 Tech Stack: JSF, Java EE, Maven.
+### 3️⃣ **Online Exam Portal**  
+🔹 A platform to conduct online tests with automatic evaluation.  
+🔹 Features: Admin panel to create exams, student login, timed assessments, and instant results.  
+🔹 Tech Stack: JSF, Java EE, MySQL.
 
-### 4️⃣ **Course Registration System**  
-🔹 Allows students to search, register, and manage courses.  
-🔹 Uses **EJB Stateless** for business logic and JSF for the frontend.  
-🔹 Tech Stack: Java EE, JSF, EJB.
 
 ---
 
