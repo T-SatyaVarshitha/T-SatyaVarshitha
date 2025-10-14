@@ -1,31 +1,42 @@
 # 👋 Hi, I'm Tadiboina Satya Varshitha
+🎓 Student at K.L. University
+💻 Aspiring Software Engineer | Python Developer | AI & Healthcare Tech Enthusias
 
-🎓 **Final-year student** passionate about **Full Stack Development** and building real-world applications.  
-💻 Skilled in **Java EE, JSF, EJB, Hibernate, REST APIs, and Maven** through multiple academic projects.  
-🚀 Eager to contribute to innovative projects and grow as a software developer.
+🚀 About Me
 
----
+I'm passionate about building impactful software that improves lives.
+I enjoy creating systems that are efficient, reliable, and user-focused.
+Currently, I’m preparing for the Software Engineering Internship (Jan–Jun 2026) — excited to work on EHR systems, hospital integrations, and AI-driven healthcare platforms that make real-world impact.
 
-## 🛠 Key Skills & Technologies
+🛠️ Tech Stack
 
-**Frontend:**  
-- HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS, JSF (JavaServer Faces)
+Languages:  Python, SQL, JavaScript
 
-**Backend:**  
-- Java (Core & Advanced), JSP, Servlets, EJB (Stateless & Stateful), RESTful Web Services (JAX-RS), Hibernate, JPA
+Frameworks & Tools: Bootstrap ,Tailwind CSS
 
-**Databases:**  
-- MySQL, PostgreSQL, SQL Queries
+Databases: MySQL
 
-**Tools & Platforms:**  
-- Maven, Eclipse IDE, NetBeans, Git, GitHub, Apache Tomcat, GlassFish
+Version Control: Git, GitHub
 
-**Other Skills:**  
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
-- Problem-Solving & Debugging
+Concepts: Software Design, OOP, API Integration, Data Structures, AI for Healthcare
 
----
+💡 What I Love Building
+
+🏥 Healthcare Systems: EHR and patient record management solutions
+
+⚙️ Backend Systems: Database My Sql
+
+📊 Data-Driven Insights: Using AI tools to make healthcare processes smarter
+
+🧩 Currently Learning
+AI integration in medical data systems
+
+Optimizing performance in enterprise Java applications
+
+🏅 Certifications
+• Salesforce Certified AI Associate from Salesforce 
+• Introduction to Data Science from Cisco 
+• Certified Essentials Automation Professional – Automation Anywhere 
 
 ## 📂 Featured Projects
 
@@ -43,9 +54,6 @@
 🔹 A platform to conduct online tests with automatic evaluation.  
 🔹 Features: Admin panel to create exams, student login, timed assessments, and instant results.  
 🔹 Tech Stack: JSF, Java EE, MySQL.
-
-
----
 
 ## 📫 Connect With Me
 - **Email:** 2200030130cser@gmail.com 
