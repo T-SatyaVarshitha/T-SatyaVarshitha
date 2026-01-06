@@ -40,17 +40,12 @@ Optimizing performance in enterprise Java applications
 
 ## 📂 Featured Projects
 
-### 1️⃣ **Online Health and Nutrition Consultation**  
-🔹 A platform for users to book appointments with nutrition experts and receive personalized diet plans.  
-🔹 Features: User registration, consultation booking, and health tracking.  
-🔹 Tech Stack: JSF, Java EE, MySQL, Hibernate.
-
-### 2️⃣ **Placement Interaction System**  
+### 1️⃣**Placement Interaction System**  
 🔹 A web application for managing student placements and company interactions.  
 🔹 Features: Student registration, job postings, application tracking, and recruiter-student communication.  
 🔹 Tech Stack: JSF, EJB, MySQL.
 
-### 3️⃣ **Online Exam Portal**  
+### 2️⃣**Online Exam Portal**  
 🔹 A platform to conduct online tests with automatic evaluation.  
 🔹 Features: Admin panel to create exams, student login, timed assessments, and instant results.  
 🔹 Tech Stack: JSF, Java EE, MySQL.
